@@ -1,1 +1,1 @@
-# Super-Hero-Index
+# Super-Index
